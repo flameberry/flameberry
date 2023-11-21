@@ -1,4 +1,4 @@
-### Hi there 👋 I am Aditya Gaikwad and I am developing a Game Engine! Big one to take in right? Here's how you can get to know more about it:
+### Hi there 👋 I am Aditya Gaikwad from India and I am developing a Game Engine! Big one to take in right? Here's how you can get to know more about it:
 → <a href="https://github.com/flameberry/flameberry-engine">Official Github Repository</a>
 <br>
 → <a href="https://flameberry.github.io">Flameberry Website</a>
