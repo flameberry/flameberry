@@ -5,7 +5,7 @@
 
 Isn't it fun to look at some good ol' GitHub Stats?
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flameberry&theme=gruvbox&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=flameberry&theme=rose-pine&mode=weekly)](https://git.io/streak-stats)
 <!--
 **flameberry/flameberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
